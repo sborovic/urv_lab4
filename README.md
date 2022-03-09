@@ -1,5 +1,5 @@
-![C++](https://img.shields.io/badge/C++-C++11-orange?logo=C%2B%2B)
-![Arduino](https://img.shields.io/badge/Arduino-Arduino_Uno-blue.svg?logo=arduino)
+![C++](https://img.shields.io/badge/C++-orange?logo=C%2B%2B)
+![Arduino](https://img.shields.io/badge/Arduino-blue.svg?logo=arduino)
 ![GitHub](https://img.shields.io/github/license/sborovic/urv_lab4)
 
 # Upravljanje u realnom vremenu (13S053URV) - Laboratorijska vežba br. 4
